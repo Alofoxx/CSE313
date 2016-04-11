@@ -1,5 +1,5 @@
-.hex
-.bin
-.lst
-.obj
-.sym
+*.hex
+*.bin
+*.lst
+*.obj
+*.sym
